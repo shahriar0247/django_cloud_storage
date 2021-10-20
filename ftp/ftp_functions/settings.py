@@ -1,0 +1,1 @@
+FTP_HOME = 'A:\\Ahmed Shahriar\\all\\professional\\programming\\python\\django\\practice2\\ftp_files'
